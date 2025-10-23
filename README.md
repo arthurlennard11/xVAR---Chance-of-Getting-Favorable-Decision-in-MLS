@@ -5,4 +5,3 @@ For example, you might consider challenging a no-call on a potential penalty. If
 Besides challenges, the optimizer could also be used right now in match preparation to analyze referee tendencies.
 
 <img src="VAR%20Dash%20SS.png" width="50%">
-<img src="Highlighted%20Visuals/Expected%20Win%20Points.png" width="50%">
