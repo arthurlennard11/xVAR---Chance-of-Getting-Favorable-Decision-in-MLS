@@ -14,7 +14,7 @@ VAR decisions are not entirely random—factors such as match scoreline, home/aw
 
 ---
 
-##🧠 Methods
+## 🧠 Methods
 	•	Scraped data from online sources to create a comprehensive database of all VAR reviews from the past three MLS seasons.
 	•	Engineered filters that allow users to query by multiple match and referee conditions, such as:
 	•	Scoreline
@@ -37,7 +37,7 @@ The dashboard would return the percentage likelihood of a penalty being awarded 
 
 ---
 
-##🧩 Applications
+## 🧩 Applications
 	•	🏟️ In-Match Use: Inform challenge or review decisions.
 	•	📋 Pre-Match Prep: Study referee tendencies and historical biases.
 	•	📈 Strategic Analysis: Quantify potential impacts of officiating trends on team outcomes.
