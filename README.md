@@ -3,3 +3,5 @@ After scraping data from online sources, I was able to build a large database of
 For example, you might consider challenging a no-call on a potential penalty. If you’re the losing team in the 80th minute of a match away from home, you could select all these conditions on the dashboard and it would give you the percentage chance of getting that penalty based on similar scenarios in the past. 
 
 Besides challenges, the optimizer could also be used right now in match preparation to analyze referee tendencies.
+
+<img src="Highlighted%20Visuals/Expected%20Win%20Points.png" width="50%">
