@@ -1,4 +1,4 @@
-## Bonus: Attendance Analysis - Do large crowds impact a referee's tendency to overturn a call?
+Bonus: Attendance Analysis - Do large crowds impact a referee's tendency to overturn a call?
 
 To answer this, I gathered the attendances for each MLS game in the data set from FBref. After that, I also gathered the stadium that each of these games was in, and the max capacity of that stadium. I was then able to find the proportion of the stadium that was filled in addition to the raw attendance. I then compared these values against the “Good for Home” variable that I mentioned earlier. I split the attendance and the “fullness” values into percentile bins (since the distribution of attendances was pretty skewed and I didn’t want to worry about there not being enough data for the extreme values) and then compared each bin to the proportion of “Good for Home” decisions that occurred inside each one. 
 
