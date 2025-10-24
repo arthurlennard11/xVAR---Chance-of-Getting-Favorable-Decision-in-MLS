@@ -17,11 +17,11 @@ VAR decisions are not entirely random—factors such as match scoreline, home/aw
 ## 🧠 Methods
 	•	Scraped data from online sources to create a comprehensive database of all VAR reviews from the past three MLS seasons.
 	•	Engineered filters that allow users to query by multiple match and referee conditions, such as:
-	•	Scoreline
-	•	Home vs. away status
-	•	Match minute
-	•	Referee name
-	•	Type of review (penalty, offside, red card, etc.)
+		•	Scoreline
+		•	Home vs. away status
+		•	Match minute
+		•	Referee name
+		•	Type of review (penalty, offside, red card, etc.)
 	•	Built an interactive dashboard that dynamically calculates the probability of a favorable decision given selected conditions.
 	•	Designed with practical applications in mind — both for in-match challenge decisions and pre-match referee preparation.
 
